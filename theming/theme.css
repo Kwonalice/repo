@@ -771,3 +771,5 @@ body,
 .notion-table-row td[style*='background:'] {
   background: var(--theme--bg_secondary) !important;
 }
+/** font **/
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap'); { font-family: 'Just Another Hand', cursive !important;}
